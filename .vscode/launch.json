@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "pnd.practice.sql_postgre_practice.App",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-App<spring-practice>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "pnd.practice.spring_practice.App",
+            "projectName": "spring-practice",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

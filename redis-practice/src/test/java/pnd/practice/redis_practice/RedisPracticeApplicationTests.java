@@ -1,10 +1,10 @@
-package pnd.practice.spring_practice;
+package pnd.practice.redis_practice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringPracticeApplicationTests {
+class RedisPracticeApplicationTests {
 
 	@Test
 	void contextLoads() {
