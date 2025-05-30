@@ -2,5 +2,6 @@
     "java.project.explorer.showNonJavaResources": false,
     "explorer.compactFolders": false,
     "java.project.sourcePaths": [],
-    "java.dependency.packagePresentation": "hierarchical"
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.configuration.updateBuildConfiguration": "interactive"
 } 
